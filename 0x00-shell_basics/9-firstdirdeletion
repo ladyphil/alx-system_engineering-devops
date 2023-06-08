@@ -1,0 +1,3 @@
+#!/bin/bash
+rm/-rf/tmpmy_first_directory
+
